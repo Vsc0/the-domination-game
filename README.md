@@ -1,7 +1,7 @@
 <div id="user-content-toc">
     <ul style="list-style: none;">
         <summary>
-            <h1>The Domination Game: Dilating Bubbles to Fill Up Pareto Fronts</h1>
+            <h1>The Domination Game:<br>Dilating Bubbles to Fill Up Pareto Fronts</h1>
         </summary>
     </ul>
 </div>
